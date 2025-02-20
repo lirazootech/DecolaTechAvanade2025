@@ -37,6 +37,19 @@ Para realização dessas atividades, eu utilizei algumas tecnologias:
 
 ## 🧐 Processo de Criação
 
+Inicialmente foi criado um novo repositório para cada projeto através da plataforma do GitHub, com o objetivo de organizar e manter a individualidade de cada projeto, facilitando assim o processo de desenvolvimento e controle de alterações.
+
+Veja a lista completa de projetos à seguir:
+
+1. Projeto Spring Boot
+2. 
+3. 
+4. 
+
+### Obs: O commit da criação e alteração de cada projeto foi realizado em uma nova branch, além de criar uma nova branch com o arquivo selecionado, criei também um pull request, ao mesmo tempo no meu repositório.
+
+*Como boa prática, não devemos fazer alterações direto na “main”, por tanto a criação de uma nova branch se fez necessário!*
+|:--:|
 
 ## 🚀 Resultados
 
