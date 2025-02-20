@@ -41,12 +41,12 @@ Inicialmente foi criado um novo repositório para cada projeto através da plata
 
 Veja a lista completa de projetos à seguir:
 
-1. Projeto Spring Boot
+1. Projeto Spring Boot: Criando um projeto com initializr e importando o projeto maven no VS Code. Conhecendo a estrutura Spring Boot, Bean e ComandLineRunner.
 2. 
 3. 
 4. 
 
-### Obs: O commit da criação e alteração de cada projeto foi realizado em uma nova branch, além de criar uma nova branch com o arquivo selecionado, criei também um pull request, ao mesmo tempo no meu repositório.
+### *Obs: O commit da criação e alteração de cada projeto foi realizado em uma nova branch, além de criar uma nova branch com o arquivo selecionado, criei também um pull request, ao mesmo tempo no meu repositório.*
 
 *Como boa prática, não devemos fazer alterações direto na “main”, por tanto a criação de uma nova branch se fez necessário!*
 |:--:|
