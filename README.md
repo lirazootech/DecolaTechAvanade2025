@@ -62,7 +62,7 @@ Veja a lista completa de projetos à seguir:
 Sinta-se à vontade para contribuir com este repositório. Para começar, faça um fork do projeto, crie uma nova branch para suas alterações e envie um pull request.
 
 ## 📜 Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo <a href="https://github.com/lirazootech/DecolaTechAvanade2025/blob/main/LICENSE" target="_blank">LICENSE</a> para mais detalhes.
 
 
 | [![DIO](/assets/img/logo_empresa_DIO.png)](https://web.dio.me/) |
