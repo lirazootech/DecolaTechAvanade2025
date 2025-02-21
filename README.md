@@ -69,4 +69,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo <a href="https:
 |:--:|
 | [![Avanade](/assets/img/logo_empresa_avanade.png)](https://www.avanade.com/pt-br) |
 | Este curso é oferecido pela Avanade em parceria com a DIO (Digital Inovation One) através da plataforma <a href="https://web.dio.me/" target="_blank">DIO.me</a> com o objetivo de capacitar e inserir jovens estudantes na área de tecnologia. Ao final do curso, após avaliação os participantes concorrem à oportunidade de estágio na <a href="https://www.avanade.com/pt-br" target="_blank">Avanade</a>, uma empresa que faz a tecnologia acontecer. |
-| Copyright © 2024. Feito com 🧡 por <a href="https://github.com/lirazootech/" target="_blank">lirazootech</a> . |
+| Copyright © 2025. Feito com 🧡 por <a href="https://github.com/lirazootech/" target="_blank">lirazootech</a> . |
