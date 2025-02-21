@@ -12,7 +12,7 @@ As atividades visam consolidar o conhecimento apresentado em sala de aula, abord
 - Desenvolvimento de APIs com Spring Framework
 - Integração de Sistemas com Banco de Dados
 - Introdução a Angular
-- Contruindo Aplicações Angular
+- Construindo Aplicações Angular
 - Serviços Cloud com foco em IA
 
 ## 🤖 Tecnologias Utilizadas:
