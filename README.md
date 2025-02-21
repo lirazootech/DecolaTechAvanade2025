@@ -41,10 +41,10 @@ Inicialmente foi criado um novo repositório para cada projeto através da plata
 
 Veja a lista completa de projetos à seguir:
 
-1. Projeto Spring Boot: Criando um projeto com initializr e importando o projeto maven no VS Code. Conhecendo a estrutura Spring Boot, Bean e ComandLineRunner.
-2. 
-3. 
-4. 
+1. <a href="" target="_blank">Projeto Spring Boot</a>: Criando um projeto com initializr e importando o projeto maven no VS Code. Conhecendo a estrutura Spring Boot, Bean e ComandLineRunner.
+2. <a href="" target="_blank">Projeto 2</a>:
+3. <a href="" target="_blank">Projeto 3</a>:
+4. <a href="" target="_blank">Projeto 4</a>:
 
 ### *Obs: O commit da criação e alteração de cada projeto foi realizado em uma nova branch, além de criar uma nova branch com o arquivo selecionado, criei também um pull request, ao mesmo tempo no meu repositório.*
 
@@ -54,6 +54,11 @@ Veja a lista completa de projetos à seguir:
 ## 🚀 Resultados
 
 
+## 🔧 Contribuição
+Sinta-se à vontade para contribuir com este repositório. Para começar, faça um fork do projeto, crie uma nova branch para suas alterações e envie um pull request.
+
+## 📜 Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 
 | [![DIO](/assets/img/logo_empresa_DIO.png)](https://web.dio.me/) |
