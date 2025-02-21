@@ -53,6 +53,10 @@ Veja a lista completa de projetos à seguir:
 
 ## 🚀 Resultados
 
+- Desenvolvimento de habilidades práticas em Spring Boot e Angular.
+- Criação de APIs robustas e escaláveis.
+- Integração de sistemas com bancos de dados.
+- Implementação de serviços em nuvem com foco em IA.
 
 ## 🔧 Contribuição
 Sinta-se à vontade para contribuir com este repositório. Para começar, faça um fork do projeto, crie uma nova branch para suas alterações e envie um pull request.
